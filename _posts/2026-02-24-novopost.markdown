@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2026-02-24 00:12:06 +0000
+categories: terror
+---
+
+## Mapiguari Assobra novamente
+
+codigos em lua scripts exemplos
+
+```lua
+tabela = {
+	'banana',
+	'melancia',
+	'pera',
+}
+
+for i = 1, #tabela do
+	print(tabela[i])
+end
+
+```
